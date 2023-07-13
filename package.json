@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
   }
 }
