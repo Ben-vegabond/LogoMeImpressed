@@ -1,4 +1,5 @@
+
 node_modules
 logo.svg
-ds_store
-DS_store
+.ds_store
+.DS_store
