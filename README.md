@@ -41,6 +41,12 @@
 - Run tests with `npm run test`
 
 ## ⚙️Technologies Used
+- Node.js
+- NPM (Node Package Manager)
+- JavaScript
+- Command-Line Interface
+- Filesystem module
+- SVG generation libraries
 
 
 
@@ -54,5 +60,7 @@
 
 ## 🔗Link
 
-Here is the Link to my ![Github]() 
+Here is the Link to my [Github](https://github.com/Ben-vegabond/LogoMeImpressed) 
 
+# Tutorial Video 
+[Demo Video](/assets/demovideo.mov)
